@@ -38,7 +38,7 @@ terraform apply
 | Name | Source | Version |
 |------|--------|---------|
 | <a name="module_sap-application-server"></a> [sap-application-server](#module\_sap-application-server) | github.com/ovh/terraform-vsphere-sap-application-server.git | v1.0.0 |
-| <a name="module_sap-hana-database"></a> [sap-hana-database](#module\_sap-hana-database) | github.com/ovh/terraform-vsphere-sap-hana-database.git | v1.0.0 |
+| <a name="module_sap-hana-database"></a> [sap-hana-database](#module\_sap-hana-database) | github.com/ovh/terraform-vsphere-sap-hana-database.git | v1.0.1 |
 
 ## Outputs
 
