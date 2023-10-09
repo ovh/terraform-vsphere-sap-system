@@ -16,7 +16,7 @@ module "sap-application-server" {
 }
 
 module "sap-hana-database" {
-  source = "github.com/ovh/terraform-vsphere-sap-hana-database.git?ref=v1.0.0"
+  source = "github.com/ovh/terraform-vsphere-sap-hana-database.git?ref=v1.0.1"
 
   vsphere_compute_cluster                        = var.vsphere_compute_cluster
   vsphere_datacenter                             = var.vsphere_datacenter
